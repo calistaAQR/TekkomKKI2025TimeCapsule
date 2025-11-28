@@ -9,7 +9,6 @@ void oscar() {
 // Your message function (Cal's version).
 void calista() {
     puts("2506557791 | Calista Aqila Ramadhani | PagiTeknik!_MALAM");
-    // isi message bebas, asal 1 baris string
 }
 
 int main() {
