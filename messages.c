@@ -8,7 +8,7 @@ void oscar() {
 
 // Your message function (Cal's version).
 void calista() {
-    puts("NPMKAMU | Calista Aqila Ramadhani | This is my message");
+    puts("2506557791 | Calista Aqila Ramadhani | PagiTeknik!_MALAM");
     // isi message bebas, asal 1 baris string
 }
 
